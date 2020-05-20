@@ -116,19 +116,6 @@ disqus_shortname: xxx
 **欢迎使用这个主题，使用时请保留 footer 上的模板主题来源。** Theme designed by [HyG](https://github.com/gaohaoyang).
 ![footer](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bepd8002j20hl02ct95.jpg)
 
-### 统计
-
-博客支持百度统计和 Google Analytics，只需在`_config.yml`中配置响应的id即可，代码如下。
-
-```yml
-# statistic analysis 统计代码
-# 百度统计 id，将统计代码替换为自己的百度统计id，即
-# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
-# xxxxx字符串
-baidu_tongji_id: xxxxxxxxxxxx
-google_analytics_id: UA-xxxxxxxx # google 分析追踪id
-```
-
 ## 博客主题使用方法
 
 欢迎使用这个主题，以下简单说一下使用方法。
@@ -210,23 +197,6 @@ disqus_shortname: gaohaoyang
 ```
 
 运行成功后，可以在 disqus 或 多说 的后台管理页看到相关信息。
-
-#### 统计信息
-
-获取 百度统计id 或 Google Analytics id 的方法：
-
-访问 http://tongji.baidu.com/ 或 https://www.google.com/analytics/ 根据提示操作即可。当然，如果不想添加统计信息，这两个参数可以不填。
-
-```yml
-# statistic analysis 统计代码
-# 百度统计 id，将统计代码替换为自己的百度统计id，即
-# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
-# xxxxx字符串
-baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
-google_analytics_id: UA-72449510-4 # google 分析追踪id
-```
-
-成功后，进入自己的百度统计或 Google Analytics 后台管理，即可看到网站的访问量、访客等相关信息。
 
 ### 4. 写文章
 
