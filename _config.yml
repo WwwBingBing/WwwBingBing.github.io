@@ -6,26 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 还是别乱点的好
-brief-intro: Weber
+title: 喵喵喵？
+brief-intro: 清醒一点
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wwwbingbing.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-github_username:  WwwBingBing
+github_username: WwwBingBing
 email: 1184420054@qq.com
-weibo_username: ''
-zhihu_username: ''
+weibo_username: ""
+zhihu_username: ""
 
-description_footer: 如果感到幸福你就拍拍手，啪啪啪~
-
-# comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+description_footer: 你好呀，某小悦～
 
 # Build settings
 markdown: kramdown
