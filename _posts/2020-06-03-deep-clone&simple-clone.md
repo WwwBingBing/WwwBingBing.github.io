@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 浅拷贝与深拷贝
-categories: js
+categories: JavaScript
 tags: 拷贝
 author: superw
 ---
