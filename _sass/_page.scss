@@ -29,12 +29,11 @@
     }
     ul {
       > h2 {
-        margin-left: -40px;
-        color: #6a6b6b;
+        color: #151d35;
+        text-align: center;
       }
       li {
         line-height: 1.8;
-        color: #888888;
         time {
           display: inline-block;
           width: 135px;
@@ -133,6 +132,7 @@
       padding-right: 10px;
       line-height: 1.8;
       padding-left: 35px;
+      color: #fff;
       ul {
         padding-left: 20px;
       }

@@ -7,7 +7,6 @@
  */
 (function() {
     if (window.innerWidth > 770) {
-
         var sidebarWrap = document.querySelector('.right>.wrap')
 
         //fix 之后百分比宽度会失效，这里用js赋予宽度
@@ -16,7 +15,6 @@
 
             // 页面顶部滚进去的距离
             var scrollTop = Math.max(document.documentElement.scrollTop, document.body.scrollTop)
-
 
             // 页面底部滚进去的距离
             var htmlHeight = Math.max(document.body.clientHeight, document.documentElement.clientHeight)
@@ -131,28 +129,12 @@ function moveTOC() {
         var TOCString = document.querySelector('#markdown-toc').innerHTML
         var contentUl = document.querySelector('#content-side')
         contentUl.insertAdjacentHTML('afterbegin', TOCString) //插入字符串
-
-        // if (!isAndroidWechatBrowser()) {
-
-            //添加scroll样式，为了平滑滚动
-            //add class "scroll", for smooth scroll
             var aTags = document.querySelectorAll('#content-side a')
-
-            //add class for everyone
-            // aTags.forEach(function () {
-            //     console.log(this);
-            // })
             for (var i = 0; i < aTags.length; i++) {
-                // if (!aTags[i].classList.contains('scroll')) {
-                //     aTags[i].classList.add('scroll')
-                // }
                 if (!aTags[i].hasAttribute('data-scroll')) {
                   aTags[i].setAttribute('data-scroll','');
                 }
-
             }
-        // }
-
     }
 }
 
