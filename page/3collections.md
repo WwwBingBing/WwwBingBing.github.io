@@ -8,7 +8,7 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 ---
 
 - content
-g{:toc}
+{:toc}
 
 ## CSS
 
@@ -66,6 +66,8 @@ g{:toc}
 ## 学习网站
 
 ### JavaScript
+
+- [前端知识每日3+1](http://www.h-camel.com/index.html)
 
 - [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/)
 
@@ -128,7 +130,7 @@ g{:toc}
 - [Vue.js 和 Webpack（二） -Randy Lu](http://djyde.github.io/2015/08/30/vuejs-and-webpack-2/)
 - [Vue.js 和 Webpack（三） -Randy Lu](http://djyde.github.io/2015/08/31/vuejs-and-webpack-3/)
 - [Vuejs 1.0 中文系列视频教程 -Laravist](https://laravist.com/series/vue-js-1-0-in-action-series)
-- [Vuejs-QQ 群 相关资料](https://github.com/jsfront/src/blob/master/vuejs.md) 来自豪情
+- [Vuejs-QQ 群 相关资料](https://github.com/jsfront/src/blob/master/vuejs.md)
 
 ### React
 
