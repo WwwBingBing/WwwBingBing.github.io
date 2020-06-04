@@ -2,11 +2,11 @@
 layout: post
 title: 浅拷贝与深拷贝
 categories: JavaScript
-tags: 拷贝 对象
+tags: 拷贝 对象 数组
 author: superw
 ---
 
-- content
+* content
   {:toc}
 
 ## 1 数据类型
