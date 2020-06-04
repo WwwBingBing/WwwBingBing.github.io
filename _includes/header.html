@@ -46,13 +46,15 @@
     '../images/background8.jpg',
     '../images/background9.jpg',
   ]
-  let index = 0
+  
+  let index = localStorage.getItem('index') || 0
   btn.onclick = function () {
-    if (index>bgArr.length-1) {
+    if (index>=bgArr.length-1) {
       index = 0
     }else {
       index++
     }
+    localStorage.setItem('index',index)
     body.style.backgroundImage = `url(${bgArr[index]}`
   }
 
