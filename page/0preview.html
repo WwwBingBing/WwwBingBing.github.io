@@ -12,7 +12,7 @@ type: page
         <small>你渴望力量么</small>
         <hr>
         <ul>
-            {% for post in paginator.posts %}
+            {% for post in site.posts %}
               <li>
                 <h2>
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
