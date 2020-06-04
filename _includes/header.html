@@ -32,30 +32,3 @@
         </nav>
     </div>
 </header>
-<script>
-  let btn = document.getElementById('changeBgBtn')
-  let body = document.getElementsByTagName('body')[0]
-  let bgArr = [
-    '../images/background1.jpg',
-    '../images/background2.jpg',
-    '../images/background3.jpg',
-    '../images/background4.jpg',
-    '../images/background5.jpg',
-    '../images/background6.jpg',
-    '../images/background7.jpg',
-    '../images/background8.jpg',
-    '../images/background9.jpg',
-  ]
-  
-  let index = localStorage.getItem('index') || 0
-  btn.onclick = function () {
-    if (index>=bgArr.length-1) {
-      index = 0
-    }else {
-      index++
-    }
-    localStorage.setItem('index',index)
-    body.style.backgroundImage = `url(${bgArr[index]}`
-  }
-
-</script>
