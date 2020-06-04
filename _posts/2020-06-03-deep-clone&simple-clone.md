@@ -6,8 +6,8 @@ tags: 拷贝 对象 数组
 author: superw
 ---
 
-* content
-  {:toc}
+- content
+{:toc}
 
 ## 1 数据类型
 

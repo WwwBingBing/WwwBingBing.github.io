@@ -7,10 +7,8 @@ type: page
 excerpt: 记录一些前端工具，文章，博客和框架。
 ---
 
-* content
-  {:toc}
-
----
+- content
+g{:toc}
 
 ## CSS
 
@@ -25,28 +23,26 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 
 - [CSS Generators -CSSREFLEX](http://www.cssreflex.com/css-generators/)
   CSS3 生成器
----
 
-## 图片/图标 
+## 图片/图标
 
-* [tiny png](https://tinypng.com/)
+- [tiny png](https://tinypng.com/)
   用于压缩 png 或 jpg 的在线工具
 
-- [easyicon](http://www.easyicon.net/)
+* [easyicon](http://www.easyicon.net/)
   对中文的搜索支持很好。实际上它是先把中文翻译为英文再搜索的。
 
-- [Font-Awesome](http://fortawesome.github.io/Font-Awesome/icons/)
+* [Font-Awesome](http://fortawesome.github.io/Font-Awesome/icons/)
   比上面介绍的那个好用的多，字体图标，不需要考虑像素大小，全部是矢量图。并且图标精美。如果不使用 BootStrap，单独添加图标的话，这一套图标在合适不过了。
 
-- [iconfont.cn](http://www.iconfont.cn/)
+* [iconfont.cn](http://www.iconfont.cn/)
   阿里巴巴制作的图标库。
 
-- [Feather icons](https://feathericons.com/)
-  简洁漂亮的免费icons资源。
+* [Feather icons](https://feathericons.com/)
+  简洁漂亮的免费 icons 资源。
 
-- [ICONSVG](https://iconsvg.xyz/)
+* [ICONSVG](https://iconsvg.xyz/)
   快速制作自定义的 SVG icons。
----
 
 ## 在线工具
 
@@ -58,15 +54,14 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 - [json editor](http://braincast.nl/samples/jsoneditor/)
   将 json 数据输入进去，会生成一个树形的结构，方便查看每个节点。
 
-- [Markdown在线编辑器](http://www.mdeditor.com/)
+- [Markdown 在线编辑器](http://www.mdeditor.com/)
   左侧写，右侧看，实时编译，非常方便。
 
 - [在线工具](https://tool.lu/nav/)
   有非常多的实用工具，包括前后端，运维，设计。
 
-- [H5网站模板](https://html5up.net/)
+- [H5 网站模板](https://html5up.net/)
   很多好看实用的网站模板。
----
 
 ## 学习网站
 
@@ -101,15 +96,13 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 
 - [EcmaScript6 全规范（含 node） -ouvens](https://github.com/ouvens/es6-code-style-guide)
 
-- [JS Tips js技巧](https://www.jstips.co/zh_CN/)
+- [JS Tips js 技巧](https://www.jstips.co/zh_CN/)
 
 - [CommonJS 规范 -来自 阮一峰 JavaScript 标准参考教程(alpha)](http://javascript.ruanyifeng.com/nodejs/module.html)
----
 
 ### Node
 
 - [七天学会 NodeJS -Nanqiao Deng](https://nqdeng.github.io/7-days-nodejs)
----
 
 ### webpack
 
@@ -127,7 +120,6 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 - [Webpack 入门指迷 -题叶](https://segmentfault.com/a/1190000002551952)
 
 - [https://webpack.github.io/ Webpack 官网](https://webpack.github.io/)
----
 
 ### Vue
 
@@ -136,13 +128,12 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 - [Vue.js 和 Webpack（二） -Randy Lu](http://djyde.github.io/2015/08/30/vuejs-and-webpack-2/)
 - [Vue.js 和 Webpack（三） -Randy Lu](http://djyde.github.io/2015/08/31/vuejs-and-webpack-3/)
 - [Vuejs 1.0 中文系列视频教程 -Laravist](https://laravist.com/series/vue-js-1-0-in-action-series)
----
+- [Vuejs-QQ 群 相关资料](https://github.com/jsfront/src/blob/master/vuejs.md) 来自豪情
 
 ### React
 
 - [深入理解 React -Thinking in React 中文版](http://reactjs.cn/react/docs/thinking-in-react.html)
 - [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html)
----
 
 ### AngularJS
 
@@ -152,7 +143,6 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 - [AngularJS api 官网](https://docs.angularjs.org/api)
 - [AngularJS 入门教程——AngularJS 中文社区提供](https://github.com/zensh/AngularjsTutorial_cn)
 - [AngularJS 教程 \| 菜鸟教程](http://www.runoob.com/angularjs/angularjs-tutorial.html)
----
 
 ## 交互设计相关
 
@@ -167,7 +157,6 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 
 - [https://gyrosco.pe/](https://gyrosco.pe/)
   首页的卡片翻动效果非常赞。
----
 
 ## 类库与插件
 
@@ -185,7 +174,6 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 
 * [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
   A simple vanilla JS script to animate scrolling to anchor links.
----
 
 ## 其他博客
 
