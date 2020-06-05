@@ -7,14 +7,13 @@ author: superw
 ---
 
 - content
-
 {:toc}
 
 ## 面试题：把给定格式的字符串转为给定格式的 Json 对象
 
 题目如下：
 
-![面试题]](../images/strToJson.jpg)
+![面试题](../images/strToJson.jpg)
 
 
 
