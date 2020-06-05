@@ -13,7 +13,7 @@ author: superw
 
 题目如下：
 
-![面试题](../images/strToJson.jpg)
+![面试题](https://note.youdao.com/yws/api/personal/file/WEB1409f56df41747247acbfcef9b3060eb?method=getImage&version=12&cstk=nW_lo3iR)
 
 
 
