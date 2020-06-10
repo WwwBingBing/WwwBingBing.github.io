@@ -181,6 +181,8 @@ excerpt: 记录一些前端工具，文章，博客和框架。
 
 - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
-- [进击的马斯特 http://pinkyjie.com/](http://pinkyjie.com/)
+- [进击的马斯特](http://pinkyjie.com/)
 
 - [JS 前端开发群月报 -豪情等人维护](http://www.kancloud.cn/jsfront/month/82796)
+
+- [程序员成长指北](http://www.inode.club/)
