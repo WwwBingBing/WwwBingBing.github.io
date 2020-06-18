@@ -50,7 +50,7 @@ export default {
 const router = new VueRouter({
   routes: [
     {
-      path: "/user/:id",
+      path: "/user/:id/",
       component: User,
       props: (route) => ({
         id: route.query.id,
